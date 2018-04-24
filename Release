@@ -1,8 +1,9 @@
-Origin: (Your Name)'s Repo
-Label: (Your Name)'s Official Repo
+Origin: xSYDx's Repo
+Label: xSYDx's Repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: xSYDx
 Architectures: iphoneos-arm
-Components: main
-Description: (Cydia Description)
+Componets: main
+Description: xSYDx's Repo.
+MD5Sum:
